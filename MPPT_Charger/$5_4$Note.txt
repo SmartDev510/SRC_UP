@@ -1,0 +1,17 @@
+Parameter:
+Maximum power point tracking of solar cells, output current greater than solar panel current, truly efficient MPPT, supporting 7V-28V, up to 100W solar panels
+The output voltage can be adjusted arbitrarily, and the CC-CV is automatically controlled (it can support single or multiple lithium batteries or Lithium iron phosphate or lead-acid batteries)
+Complete charging management of the battery
+Maximum supported solar power: 100W
+PWM switching frequency: 300KHz
+Adaptive adjustment of constant current charging current 6A
+Trickle charging of deeply discharged batteries
+Dual indication of charging status and charging end status (red light on during charging/full blue light on/red light flashing/green light constantly on, indicating no battery connected)
+Soft start function
+Battery end overvoltage protection
+Module nature: buck type with maximum power point tracking charging board
+Input voltage 8-30V
+The output voltage is adjustable from 4.2-28V, and the input is at least 2V higher than the output
+Output current 6A adaptive adjustment
+Conversion efficiency: typical 92% output 18V output 14V
+
