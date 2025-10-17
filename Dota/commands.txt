@@ -1,0 +1,16 @@
+dota_bot_set_difficulty 3 
+dota_wait_for_players_to_load 1
+dota_wait_for_players_to_load_timeout 120
+map dota
+
+
+
+
+dota_bot_populate
+
+
+https://pinoytechsaga.blogspot.com/2017/04/play-dota-2-offline-without-steam-using-revloader.html?m=1
+
+
+
+https://www.instructables.com/DIY-1kW-MPPT-Solar-Charge-Controller/
